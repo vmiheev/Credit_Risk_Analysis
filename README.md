@@ -31,6 +31,7 @@ The dataset has a class imbalance favouring low-risk clients (high-risk clients:
 
 ![Cluster Centroids](/Results/Cluster_Centroids.png)
 
+* SMOTEENN
 * Balanced accuracy score: 0.636963792847947
 * Precision (high-risk clients): 0.01
 * Recall (high-risk clients): 0.69
